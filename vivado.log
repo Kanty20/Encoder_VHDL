@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Jan 20 18:32:00 2024
+# Process ID: 20744
+# Current directory: H:/pul/koder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22632 H:\pul\koder\koder.xpr
+# Log file: H:/pul/koder/vivado.log
+# Journal file: H:/pul/koder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project H:/pul/koder/koder.xpr
+INFO: [Project 1-313] Project file moved from 'D:/253263/koder' since last save.
+WARNING: [filemgmt 56-3] Board Part Repository Path: Could not find the directory 'C:/Users/Student/AppData/Roaming/Xilinx/Vivado/2020.2/xhub/board_store/xilinx_board_store'.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'H:/pul/koder/koder.gen/sources_1', nor could it be found using path 'D:/253263/koder/koder.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:14 . Memory (MB): peak = 1009.945 ; gain = 0.000
+update_compile_order -fileset sources_1

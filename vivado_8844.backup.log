@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Oct 23 10:25:49 2023
+# Process ID: 8844
+# Current directory: D:/253263/koder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7192 D:\253263\koder\koder.xpr
+# Log file: D:/253263/koder/vivado.log
+# Journal file: D:/253263/koder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/253263/koder/koder.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'D:/253263/koder/koder.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1
